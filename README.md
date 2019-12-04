@@ -1,2 +1,2 @@
 # BUPT-Algorithm-Code
-Some algorithm codes maybe useful
+Some algorithm codes from my homework but maybe useful
